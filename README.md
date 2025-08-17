@@ -1,2 +1,2 @@
-# Etch-a-Skech
-A simple Etch-a-Skech to practice 
+# Etch-a-Sketch
+A simple Etch-a-sketch to practice 
